@@ -1,0 +1,1 @@
+# ansible-certmanager-roks-resources
